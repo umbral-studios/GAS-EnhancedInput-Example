@@ -13,3 +13,5 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *.meta
+.idea
+Plugins/
